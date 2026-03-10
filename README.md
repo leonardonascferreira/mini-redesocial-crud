@@ -6,23 +6,23 @@ A aplicação permite criar posts, visualizar posts, editar conteúdo diretament
 
 ## 🚀 Funcionalidades
 
-- Criar novos posts
-- Listar posts existentes
-- Editar conteúdo do post em tempo real
-- Deletar posts
-- Atualização dinâmica da interface
+* Criar novos posts
+* Listar posts existentes
+* Editar conteúdo do post em tempo real
+* Deletar posts
+* Atualização dinâmica da interface
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- Manipulação do DOM
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+* Manipulação do DOM
 
 ## 📂 Estrutura do Projeto
 
 mini-rede-social/
-│
+
 ├── index.html
 ├── style.css
 └── script.js
@@ -31,7 +31,12 @@ mini-rede-social/
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/leonardonascferreira/mini-redesocial-crud.git
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
-cd mini-redesocial-crud
+2. Acesse a pasta do projeto:
+
+cd mini-rede-social
+
+3. Abra o arquivo `index.html` no navegador.
+
+Não é necessário instalar dependências.
