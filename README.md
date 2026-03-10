@@ -19,14 +19,6 @@ A aplicação permite criar posts, visualizar posts, editar conteúdo diretament
 * JavaScript (Vanilla JS)
 * Manipulação do DOM
 
-## 📂 Estrutura do Projeto
-
-mini-rede-social/
-
-├── index.html
-├── style.css
-└── script.js
-
 ## ⚙️ Como Executar o Projeto
 
 1. Clone o repositório:
