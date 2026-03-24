@@ -81,4 +81,5 @@ Este projeto foi desenvolvido com fins de estudo para praticar:
 
 ## Contato 📧
 
-* [Meu E-mail](mailto:leonardonascferreira@gmail.com)
+- [LinkedIn](https://linkedin.com/in/leonardonascferreira)
+- [Meu E-mail](mailto:leonardonascferreira@gmail.com)
