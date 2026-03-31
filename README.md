@@ -34,7 +34,7 @@ A aplicação permite criar posts, visualizar os posts existentes, editar o cont
 1. Clone este repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/leonardonascferreira/mini-redesocial-crud
 ```
 
 2. Abra a pasta do projeto.
